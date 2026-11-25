@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>随叫</string>
+	<key>CFBundleExecutable</key>
+	<string>Suijiao</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.suijiao.mac</string>
+	<key>CFBundleName</key>
+	<string>随叫</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.2</string>
+	<key>CFBundleVersion</key>
+	<string>2</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSInputMonitoringUsageDescription</key>
+	<string>随叫使用 Free3 按键唤起聊天和语音输入。</string>
+</dict>
+</plist>

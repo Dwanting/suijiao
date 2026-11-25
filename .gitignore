@@ -1,0 +1,10 @@
+.DS_Store
+build/
+*.app/
+*.dSYM/
+*.log
+.env
+.env.*
+!.env.example
+tools/pager-profile.json
+/随叫桌宠预览.png
